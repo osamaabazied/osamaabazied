@@ -10,7 +10,7 @@
 # Hi, ich bin Osama Abazied
 
 Ich studiere Informatik an der Hochschule Darmstadt und interessiere mich besonders für Softwareentwicklung, objektorientierte Programmierung und den Bereich künstliche Intelligenz.  
-Mein Schwerpunkt liegt auf **C++**, außerdem arbeite ich mit **C#**, **SQL**, **Python**, **Java** und **JavaScript**.
+Mein Schwerpunkt liegt auf **C++**, außerdem arbeite ich mit **C#**, **SAP**, **Python**, **Java** und **JavaScript**.
 
 ---
 
