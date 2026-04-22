@@ -1,67 +1,71 @@
-### Technical Architect | Cloud Solutions Consultant | Presales Specialist | RFXs | Certified (AWS/GCP/Azure)
+<div align="right">
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sy-rashid/)](https://www.linkedin.com/in/sy-rashid/)
+  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@syrashid/)](https://syrashid.medium.com)
+  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy@mangotree.dev)](mailto:sy@mangotree.dev)
+  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/syrashid)](https://www.behance.net/syrashid)
+</div>
 
-More on [vidyabhandary.github.io](https://vidyabhandary.github.io)
+<hr>
 
-<table><tr>
-
----
-
-### On my blog
-
-<!-- blog starts -->
-* [When Harm becomes natural choice for AI](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/04/17/AIHarmRationalChoice.html)
-* [Claude Code Unpacked!](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai,/harnessengineering/2026/04/02/ClaudeCodeUnpacked.html)
-* [Trust Me Bro - AI Pysch !](https://vidyabhandary.github.io/blog/llms,/ai,/aisecurity,/agenticai/2026/03/27/SCOUT_TrustMeBro.html)
-<!-- blog ends -->
-  More on [vidyabhandary.github.io/blog](https://vidyabhandary.github.io/blog/)
-  </tr>
-
-<tr>
-
-### TIL snippets
-
-<!-- tilentries starts -->
-
-* [Semantic vs Syntactic](https://github.com/vidyabhandary/til/blob/master/tech_reads/SemanticVsSyntactcic.md)
-* [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue_Intelligibility_Metric.md)
-* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md)
-<!-- tilentries ends -->
-  More on [vidyabhandary.github.io/TIL/](https://vidyabhandary.github.io/TIL/)
-  </tr>
-
-</table>
-
----
-
-<a href="https://vidyabhandary.github.io/blog/github/2020/07/27/Self-updating-profile-readme.html">How this works</a>
-<a href="https://github.com/vidyabhandary/vidyabhandary/actions"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
-
-<a href="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=vidyabhandary.visitor-badge&title=Visits" align="right" alt="Visits"></a>
-
-<p></br></p>
-<p align="center">
-  <a href="https://in.linkedin.com/in/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://vidyabhandary.medium.com" target="blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="vidyabhandary" /></a> 
-  <a href="https://kaggle.com/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"/></a> 
-  <a href="https://dev.to/vidyabhandary" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="vidyabhandary"/></a>
+<p>
+My name is Sy Rashid, and I love to build stuff, usually with code. In school I spent time building nuclear reactor simulations, then built hard kombucha and wine brands with Anheuser-Busch, and now I work building art tech with ARTSVP. Coding has been an on and off love affair for me since high school, until I really understood the role software could play in creating a more equitable society. I just wrapped up at Georgia Tech (round 2) getting my Masters in Machine Learning because I believe in the field's outsized impact to create those opportunities. 
+</p>
+<p> 
+All said, I like building and designing well engineered software systems, eating any form of wrapped food (burritos, dürüm kebabs, wraps, sushi-rritos, gyros, etc), <a href="https://www.behance.net/syrashid">taking photos</a>, and trying to <a href="images/falling_with_style.GIF">jump out</a> of the nearest plane.
 </p>
 
-<!-- ### Hi there 👋 --->
-<!--
-<a href="https://in.linkedin.com/in/vidyabhandary"><img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
--->
-<!--
-**vidyabhandary/vidyabhandary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📘 How I'd Define Me... Literally
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 34
+     @work = [ 'ARTSVP', 'MangoTree Dev' ]
+     @education = [ 'Georgia Tech MSCS', 'Le Wagon', 'HBX/HBS', 'Georgia Tech BSNRE' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Burritos' ]
+   end
+
+   def languages
+     {
+       human: [ 'English', 'Bengali', 'Portuguese', 'Spanish' ],
+       programming: [ 'Ruby', 'Python', 'Javascript', 'SQL' ]
+      }
+   end
+
+   def current_location
+     'Lisbon, PT'
+   end
+
+   def next_locations
+     [ 'Zell am See, AT' ]
+   end
+
+   def currently
+     {
+       studying: [ 'Natural Language Processing', 'Deep Learning', 'Language of Proofs' ],
+       reading: [ 'The Moral Animal', 'Discrete Mathmatics and Its Applications' ],
+       tinkering: [ 'PR Stacking (Graphite)', 'Quant Trading', 'Frontside Shifty' ]
+      }
+   end
+ end
+ ```
+
+<hr>
+
+### 👾 Cool Stuff Everyone Should See
+-   <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.03923&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=true&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">Peel Open</a> a Neural Network 🧠
+-  <a href="https://www.justtherecipe.com/">Just The Recipe</a> 🍋
+-  A Way to <a href="https://stephango.com/40-questions">Reflect On</a> the New Year 🎊
+
+<hr>
+
+### 🤠 My Cozy Corner of the Internet
+
+-  I made the newspaper <a href="https://www.stuttgarter-nachrichten.de/inhalt.bluehendes-barock-gaudi-in-ludwigsburg-mit-kuerbisbooten-um-die-wette-paddeln.c99aad56-3b82-4c07-a561-ef945f3ac523.html">racing pumpkin boats</a> 🎃
+-  My Personal 80's Style <a href="https://vimeo.com/347233285?share=copy#t=0">Dating Video</a> 👴🏾
+-  <a href="https://mangotree.dev">MangoTree's Website</a> (Do you know the Konami Code?) 🔦
+-  <a href="https://syrashid.medium.com/tinderellas-data-bar-charts-my-adventures-down-the-tinder-rabbit-hole-9bf540d796a7">Tinderellas, Data, & Bar Charts</a> 👸
