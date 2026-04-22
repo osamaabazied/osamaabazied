@@ -26,7 +26,7 @@ public:
     std::string name = "Osama Abazied";
     std::string role = "Informatikstudent an der Hochschule Darmstadt";
     std::vector<std::string> mainSkills = {
-        "C++", "C#", "SQL", "Python", "Java", "JavaScript"
+        "C++", "C#", "SAP", "Python", "Java", "JavaScript"
     };
     std::vector<std::string> focusAreas = {
         "Objektorientierte Programmierung",
