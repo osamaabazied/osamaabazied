@@ -1,7 +1,7 @@
-<div align="right">
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osama%20Abazied-blue?style=flat-square&logo=linkedin)](DEIN-LINKEDIN-LINK)
-[![Email](https://img.shields.io/badge/Email-osamaabazied%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:osamaabazied@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Osama%20Abazied-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/osama-abazied-298518305)
+[![Email](https://img.shields.io/badge/Email-osamaabazied%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=osamaabazied@gmail.com)
 
 </div>
 
